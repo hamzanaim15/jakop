@@ -1,0 +1,2 @@
+# jakop
+application mobile
